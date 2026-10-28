@@ -1,4 +1,4 @@
-IN THE SUPREME COURT OF GEORGIA
+IN THE COUNCIL OF SUPERIOR COURT JUDGES OF GEORGIA
 
 IN RE: MOTION TO AMEND THE UNIFORM RULES FOR SUPERIOR COURT — PROPOSED REVISIONS TO STANDARD FORMS SC-15, SC-16, SC-17, SC-18, SC-19, SC-29, SC-30, SC-22, SC-24
 Comes now petitioner, [], Pro Se, and files this above styled rulemaking amendment, and shows this court the following
@@ -152,3 +152,12 @@ Wherefore for the above reasons, the petitioner prays:
 1.  The Court Amends and deletes SC-15,SC-16, SC-17, SC-18, SC-22, SC-24 SC-29,SC-30
 2. Amend SC-19 as defined above.
 Respectfully Submitted, this the 30th Day of July, 2026
+
+
+
+IN THE COUNCIL OF SUPERIOR COURT JUDGES OF GEORGIA
+
+IN RE: MOTION TO AMEND THE UNIFORM RULES FOR SUPERIOR COURT — PROPOSED REVISIONS TO STANDARD FORMS SC-15, SC-16, SC-17, SC-18, SC-19, SC-29, SC-30, SC-22, SC-24
+
+Motion to Supplement the record
+In our original rule change petition, it was intended to include the citation of Ebay v MercExchange 547 U.S. 388 (2006), but lost it-we have located it.  In Ebay, Federal law allowed a court in a civil matter to issue an injuncti remedy for the prevailing plaintiff in a patent act matter.  Even though statute allows for an equitable relief on top of a remedy at law which can be allowed, the supreme court noted that the trial court still was required to use the traditional 4 tests before granting an injunction.  That is, not even a statutory authorization allows a trial court to circumvent the traditional 4 tests.  Already these forms fail to follow these rigid and requisite 4 tests.  Additionally, because the remedy at law is already criminal, the issuance of an injunction is improper.  It should also be added that there is no separate civil suit of stalking.  See Troncalli V Jones (Ga. Ct. App. 1999) (“The trial court entered judgment, Troncalli appeals, and based on our conclusion in Division 1 that stalking is not a tort, we reverse the judgment”).
